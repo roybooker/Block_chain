@@ -9,12 +9,12 @@
 ## Technologies
 
 # Imports
-import streamlit as st
-from dataclasses import dataclass
-from typing import Any, List
-import datetime as datetime
-import pandas as pd
-import hashlib
+### import streamlit as st ###
+### from dataclasses import dataclass ###
+### from typing import Any, List ###
+### import datetime as datetime ###
+### import pandas as pd ###
+### import hashlib ###
 
 
 ## Observations
@@ -27,8 +27,8 @@ Following the below process I was able to create the required interface.
 
 
 # Conclusions
-Image of Interface.
-![Streamlit_interface](images/block_chain_ledger.png)
+### Image of Interface. ###
+![Streamlit_interface](bootcamp/Block_chain/images/block_chain_ledger.png)
 
 ## Contributors
 
