@@ -28,7 +28,7 @@ Following the below process I was able to create the required interface.
 
 # Conclusions
 Image of Interface.
-![Streamlit_interface](../images/Block_chain_ledger.png)
+![Streamlit_interface](images/block_chain_ledger.png)
 
 ## Contributors
 
